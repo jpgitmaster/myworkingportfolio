@@ -1,0 +1,6 @@
+#testimonials{margin-top: 150px;}
+.testi{position: relative;}
+.testi .popover{display: block; top: inherit; bottom: 65px;}
+.testi .popover.top>.arrow{left: 36px;}
+.testi .testi_img{width: 80px; height: 80px; border-radius: 50%; overflow: hidden; float: left; margin-right: 10px;}
+.testi .testi_img img{width: 100%; height: 100%;}
